@@ -1,1 +1,1 @@
-# 2024-Fall-5205-Linear-Regression-Model-Final-Project
+# The repo contains the codes for my final project of GRSTAT5205 Linear Regression Models.
